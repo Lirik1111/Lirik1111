@@ -12,3 +12,9 @@ I am Kirilo Kozachuk a student and content creator on YouTube [YouTube](https://
 
 
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=social&logo=javascript&logoColor=red&label=javascript&color=green&link=https%3A%2F%2Fwww.youtube.com%2F%40Show0_0)
+
+
+## Stats 
+
+
+![Lirik1111 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lirik1111&show_icons=true&theme=transparent)
