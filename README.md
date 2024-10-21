@@ -18,3 +18,6 @@ I am Kirilo Kozachuk a student and content creator on YouTube [YouTube](https://
 
 
 ![Lirik1111 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lirik1111&show_icons=true&theme=transparent)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lirik1111)](https://github.com/Lirik1111/github-readme-stats)
